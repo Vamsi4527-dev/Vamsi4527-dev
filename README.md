@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi there 👋 I'm Vamsi Krishna<br>
 🎓 I am a B.Tech undergraduate student in Computer Science and Engineering (Artificial Intelligence & Data Science) at Vishnu Institute of Technology.<br>
 💡 I am passionate about Data Science 📊 and Web Development 🌐, and I enjoy building projects that solve real-world problems.
 <br>
