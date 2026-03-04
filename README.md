@@ -1,7 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently B.Tech undergraduate student from Vishnu Institute of Technology. Computer Science and Engineering branch in specialization of Artificial Intelligence and Data Science. <br>
-I am a Data science enthusiastic and also a web developer. <br> 
-I am a smart worker🧠 and I am the person who completes the work at the edge time.
+🎓 I am a B.Tech undergraduate student in Computer Science and Engineering (Artificial Intelligence & Data Science) at Vishnu Institute of Technology.<br>
+💡 I am passionate about Data Science 📊 and Web Development 🌐, and I enjoy building projects that solve real-world problems.
+<br>
+🚀 I like learning new technologies, improving my technical skills, and continuously growing as a developer.
 
 
 ## 🌐 Socials:
