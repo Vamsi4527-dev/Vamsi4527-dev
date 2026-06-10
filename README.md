@@ -8,6 +8,7 @@
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-theta-opfhiqy4d1.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1ByPkkpkfj/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vamsikrishnadasari3?igsh=MWFnNDU2c3QzYWpkMg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Vamsi_4527) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vamsikrishnadasari1234@gmail.com) 
 
 # 💻 Tech Stack:
