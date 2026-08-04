@@ -17,7 +17,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Vamsi4527-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vamsi4527-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi4527-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![Vamsi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamsi4527-dev&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi4527-dev&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vamsi4527-dev&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vamsi4527-dev&icon=0&color=0)](https://visitcount.itsvg.in)
